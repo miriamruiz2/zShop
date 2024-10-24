@@ -1,0 +1,3 @@
+usuario y contraseña de la app
+admin
+1234
